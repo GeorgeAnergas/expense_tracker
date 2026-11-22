@@ -47,7 +47,7 @@ git clone https://github.com/GeorgeAnergas/expense_tracker.git
 
 Navigate to the project folder:
 
-cd expense-tracker
+cd expense_tracker
 
 Run the application:
 
