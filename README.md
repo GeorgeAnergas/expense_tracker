@@ -27,17 +27,19 @@ All transactions are saved in a local JSON file.
 
 ## Project Structure
 
+```text
 expense_tracker/
 │
 ├── data/
 │   └── transactions.json
 │
+├── .gitignore
+├── README.md
 ├── main.py
 ├── transaction.py
 ├── expense_manager.py
-├── storage.py
-└── README.md
-
+└── storage.py
+```
 
 ## Installation and Usage
 
