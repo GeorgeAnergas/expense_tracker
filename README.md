@@ -20,7 +20,7 @@ All transactions are saved in a local JSON file.
 
 ## Technologies Used
 
-- Python 3
+- Python 
 - JSON
 - Python standard library (json, datetime)
 
@@ -29,14 +29,14 @@ All transactions are saved in a local JSON file.
 
 expense_tracker/
 │
-|-- data/
-|   -- transactions.json
-|
-|-- main.py
-|-- transaction.py
-|-- expense_manager.py
-|-- storage.py
-|-- README.md
+├── data/
+│   └── transactions.json
+│
+├── main.py
+├── transaction.py
+├── expense_manager.py
+├── storage.py
+└── README.md
 
 
 ## Installation and Usage
